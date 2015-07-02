@@ -1,6 +1,6 @@
 # Go Fun
 
-cf. git@github.com:obfk/go.git
+cf. https://gobyexample.com
 
 Commits powered via https://github.com/obfk/dotfiles/blob/master/zsh/.zshrc#L41.
 
